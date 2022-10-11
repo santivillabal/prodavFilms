@@ -1,0 +1,20 @@
+.galeriaCard {
+  width: auto;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.galeriaCard:hover {
+  -webkit-box-shadow: 4px 4px 8px #c5c5c5;
+          box-shadow: 4px 4px 8px #c5c5c5;
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.galeriaImg {
+  height: 10rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=proyectos.css.map */
