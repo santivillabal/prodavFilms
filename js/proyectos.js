@@ -6,7 +6,7 @@ const proyectos = [];
 
 function showProyecto(proyecto, index) {
     proyectosSection.innerHTML += `
-    <div class="col-4 p-3 galleryItem" id="${index}">
+    <div class="col-lg-4 col-md-6 p-3 galleryItem" id="${index}">
     <div class="my-3">
         <div class="card bg-dark text-white galeriaCard">
           <img src="${proyecto.frame}" class="card-img galeriaImg" alt="...">

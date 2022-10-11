@@ -90,4 +90,10 @@ p {
 .verAhora:hover {
   color: white;
 }
+
+@media screen and (max-width: 425px) {
+  .galleryItem {
+    width: 367px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
