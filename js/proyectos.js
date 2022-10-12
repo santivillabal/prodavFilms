@@ -1,5 +1,9 @@
 import { getProyectos } from './firebase.js'
 
+let hideSpinner = function(){
+  document.getElementById("spinner").style.display = "none";
+}
+
 const proyectosSection = document.getElementById("proyectosSection");
 const proyectos = [];
 
@@ -28,8 +32,7 @@ window.addEventListener("DOMContentLoaded", async() => {
     proyectos.sort((a, b) => {
         return b.id - a.id;
     });
-
-    console.log(proyectos);
+    hideSpinner();
     proyectos.forEach(proyecto => {
         showProyecto(proyecto, proyectos.indexOf(proyecto));
     });
