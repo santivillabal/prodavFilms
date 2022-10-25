@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,aAAa,CAAC,aAAa,CAAC,GAAG,CAAC;EAC5B,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,YAAY;EACrB,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,GAAG;CACrB;;AACD,AAAA,YAAY,CAAC;EACT,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,eAAe;CAC/B;;AACD,AAAA,SAAS,AAAA,MAAM,CAAE;EACb,KAAK,EAAE,KAAK;CACf",
-    "sources": [
-        "cortometraje.scss"
-    ],
-    "names": [],
-    "file": "cortometraje.css"
-}

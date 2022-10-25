@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,EAAE;CACjB;;AACD,AAAA,YAAY,AAAA,MAAM,CAAC;EACf,UAAU,EAAG,mBAAmB;EAChC,WAAW,EAAE,mBAAmB;EAChC,SAAS,EAAE,WAAW;CACzB;;AACD,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,KAAK;CACpB",
-    "sources": [
-        "proyectos.scss"
-    ],
-    "names": [],
-    "file": "proyectos.css"
-}
