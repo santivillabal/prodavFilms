@@ -104,9 +104,17 @@ p{
     .recon{
         color: #ffffff;
     }
-
+    .reconimg{
+        height: 400px;
+    }
 
     /* ///////// R E S P O N S I V E ////////// */
+
+    /* @media screen and (max-width:758px){
+        .reconimg{
+            height: 15rem;
+        }
+    } */
 
     @media screen and (max-width: 425px) {
         .galleryItem {
