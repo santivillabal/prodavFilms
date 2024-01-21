@@ -63,6 +63,12 @@ p{
 
     /* ///////// P R O Y E C T O S ////////// */
 
+
+    .titulo{
+        color: #ffffff;
+        text-align: center;
+    }
+
     .galeriaCard {
         width: auto;
         transition: 1s;
@@ -105,7 +111,7 @@ p{
         color: #ffffff;
     }
     .reconimg{
-        width: 75%;
+        width: 80%;
     }
 
     /* ///////// R E S P O N S I V E ////////// */
