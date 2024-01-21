@@ -98,6 +98,14 @@ p{
     }
 
 
+
+/* ///////// R E C O N O C I M I E N T O S ////////// */
+
+    .recon{
+        color: #ffffff;
+    }
+
+
     /* ///////// R E S P O N S I V E ////////// */
 
     @media screen and (max-width: 425px) {
