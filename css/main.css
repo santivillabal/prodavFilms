@@ -105,19 +105,28 @@ p{
         color: #ffffff;
     }
     .reconimg{
-        height: 400px;
+        width: 711px;
     }
 
     /* ///////// R E S P O N S I V E ////////// */
 
-    /* @media screen and (max-width:758px){
+    @media screen and (max-width:757px){
         .reconimg{
-            height: 15rem;
+            width: 550px;
         }
-    } */
+    }
 
     @media screen and (max-width: 425px) {
         .galleryItem {
             width: 367px;
+        }
+        .reconimg{
+            width: 380px;
+        }
+    }
+
+    @media screen and (max-width:320px){
+        .reconimg{
+            width: 280px;
         }
     }
