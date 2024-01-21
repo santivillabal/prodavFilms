@@ -105,28 +105,13 @@ p{
         color: #ffffff;
     }
     .reconimg{
-        width: 711px;
+        width: 75%;
     }
 
     /* ///////// R E S P O N S I V E ////////// */
 
-    @media screen and (max-width:757px){
-        .reconimg{
-            width: 550px;
-        }
-    }
-
     @media screen and (max-width: 425px) {
         .galleryItem {
             width: 367px;
-        }
-        .reconimg{
-            width: 380px;
-        }
-    }
-
-    @media screen and (max-width:320px){
-        .reconimg{
-            width: 280px;
         }
     }
